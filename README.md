@@ -5,20 +5,33 @@ application up and running.
 
 Things you may want to cover:
 
+* OS
+　OSはUbuntuまたMac OSXを使う
+
 * Ruby version
+　Ruby3.*, Rails6.*, PostgreSQL12.*以上 を使う
 
-* System dependencies
+* バージョン管理
+  Git / GitHubを使う
 
-* Configuration
+* ブログ機能(CRUD)がある
+  □ 新規 Create
+  □ 一覧・個別 Read
+  □ 編集・更新 Update 
+  □ 削除 Delete
 
-* Database creation
+* ユーザ登録機能(CRUD)がある
+  □ 新規 Create
+  □ 一覧・個別 Read
+  □ 編集・更新 Update 
+  □ 削除 Delete
 
-* Database initialization
+* ログイン機能がある
 
-* How to run the test suite
+* 任意フリーのBootstrapテーマを一覧画面に実装する
+　選んだテンプレート名を記入する。
 
-* Services (job queues, cache servers, search engines, etc.)
+* アプリケーション名「dic」にする
 
-* Deployment instructions
+* ブラウザ上で一切エラーが発生することなく使うことができる
 
-* ...
